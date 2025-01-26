@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Maljea
-- 👀 I’m interested in game design
-- 🌱 I’m currently learning linux
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me maljeamiddleton@proton.me
-- 😄 Pronouns: ...
+- 👀 I’m interested in 3d sculpting and animation
+- 🌱 I’m currently learning Void + Emacs
+- 📫 contact me: maljeamiddleton@proton.me
 - ⚡ Fun fact: I believe that videogames are art
 
 <!---
